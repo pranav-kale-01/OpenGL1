@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\OpenGL\OpenGL2\main.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\OpenGL\OpenGL2\main.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\OpenGL\OpenGL2\VAO.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\OpenGL\OpenGL2\main.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\OpenGL\OpenGL2\main.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  OpenGL2.vcxproj -> D:\OpenGL\OpenGL2\x64\Debug\OpenGL2.exe
